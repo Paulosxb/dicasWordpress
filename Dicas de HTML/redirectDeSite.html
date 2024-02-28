@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Redirecionamento com Contagem Regressiva</title>
+    <script type="text/javascript">
+        // Inicializa a contagem regressiva em 5 segundos
+        var tempoRestante = 5;
+
+        function atualizarContagemRegressiva() {
+            // Atualiza o texto no elemento de contagem regressiva
+            document.getElementById('contagemRegressiva').textContent = "Esta página será redirecionada em " + tempoRestante + " segundos.";
+
+            // Decrementa o contador
+            tempoRestante--;
+
+            // Quando o contador chegar a 0, redireciona para a URL desejada
+            if (tempoRestante < 0) {
+                window.location.href = "https://paulosxb.com.br/";
+            } else {
+                // Aguarda 1 segundo para atualizar a contagem novamente
+                setTimeout(atualizarContagemRegressiva, 1000);
+            }
+        }
+
+        // Inicia a contagem regressiva quando a página é carregada
+        window.onload = function() {
+            setTimeout(atualizarContagemRegressiva, 1000);
+        };
+    </script>
+</head>
+<body>
+    <p id="contagemRegressiva">Esta página será redirecionada em 5 segundos.</p>
+    <p>Se você não for redirecionado automaticamente, clique <a href="https://paulosxb.com.br/">aqui</a>.</p>
+</body>
+</html>
