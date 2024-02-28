@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Meu Plugin de Redirecionamento
  * Description: Um plugin simples para redirecionar páginas após 5 segundos com um shortcode.
- * Version: 1.0
+ * Version: 1.1
  * Author: Seu Nome
  */
 
