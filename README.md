@@ -29,19 +29,19 @@ Contribuições são sempre bem-vindas! Se você tem uma dica, truque ou snippet
 A menos que especificado de outra forma, o conteúdo deste repositório está licenciado sob a [Licença MIT](LICENSE). Isso significa que você é livre para usar, copiar, modificar e distribuir qualquer código ou conteúdo, desde que forneça o devido crédito.
 
 ## Referencias 
-https://br.wordpress.org/
-https://codex.wordpress.org/
-https://developer.wordpress.org/
-https://make.wordpress.org/
-https://woo.com/documentation/woocommerce/
-https://getbootstrap.com.br/
-http://flexslider.woothemes.com/
-https://github.com/woocommerce/flexslider
-http://tgmpluginactivation.com/
-https://fonts.google.com/
-https://poedit.net/
-https://www.apachefriends.org/pt_br/
-https://github.com/wp-bootstrap/wp-bootstrap-navwalker
+- ** https://br.wordpress.org/
+- ** https://codex.wordpress.org/
+- ** https://developer.wordpress.org/
+- ** https://make.wordpress.org/
+- ** https://woo.com/documentation/woocommerce/
+- ** https://getbootstrap.com.br/
+- ** http://flexslider.woothemes.com/
+- ** https://github.com/woocommerce/flexslider
+- ** http://tgmpluginactivation.com/
+- ** https://fonts.google.com/
+- ** https://poedit.net/
+- ** https://www.apachefriends.org/pt_br/
+- ** https://github.com/wp-bootstrap/wp-bootstrap-navwalker
 
 ## Mantenha-se Conectado
 
